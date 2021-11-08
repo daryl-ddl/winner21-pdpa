@@ -13,11 +13,9 @@ Primary style
   content: '';
 }
 
-@font-face { font-family: Fira Sans Condensed; src: url('../font/FiraSansCondensed-Regular.ttf'); } 
-
 body {
   font-size: 100%;
-  font-family: Fira Sans Condensed;
+  font-family: 'Fira Sans Condensed', sans-serif;
   /*font-family: "Open Sans", sans-serif;*/
   color: #1f4E9C;
   background-color: #f3f3f3;
